@@ -1,0 +1,25 @@
+.pdown{
+    margin: 40px;
+}
+
+
+
+
+
+  
+ 
+      @media screen and (max-width: 768px) {
+    
+        .mdscrn{
+           width: 100%;
+           height: 100%}}
+
+    
+     @media screen and (min-width: 400px) {
+        .smscrn{
+           
+            width: 100%;
+            height: 100%;
+            
+        }
+          }
